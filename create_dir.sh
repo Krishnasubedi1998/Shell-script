@@ -7,5 +7,5 @@ if [ -d {$a}/krishna ]
 then 
 echo "directory already exist"
 else
-echo"directory dont exist"
+echo "directory dont exist"
 fi
