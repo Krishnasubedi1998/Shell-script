@@ -1,5 +1,4 @@
 #!/bin/bash
-set +x
 a=`pwd`
 echo $a
 mkdir ${a}/krishna
