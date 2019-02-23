@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 a=`pwd`
 echo $a
 mkdir ${a}/krishna
@@ -8,4 +9,3 @@ echo "directory already exist"
 else
 echo"directory dont exist"
 fi
-
