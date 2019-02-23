@@ -1,6 +1,6 @@
 #!/bin/bash
-a = ${pwd}
-echo ${a}
+a=`pwd`
+echo $a
 mkdir ${a}/krishna
 if [ -d {$a}/krishna ]
 then 
